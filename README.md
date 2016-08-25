@@ -2,6 +2,8 @@
 
 ![BuildStatus](https://travis-ci.org/stevenalexander/tdd-for-apis.svg?branch=master)
 
+_This was forked from [cianclarke/tdd-for-apis](https://github.com/cianclarke/tdd-for-apis) to try testing and travis with node._
+
 Test-Driven-Development ([TDD](https://en.wikipedia.org/wiki/Test-driven_development)) is an increasingly popular, and practical, development methodology in today’s software industry, and it is easy to apply in [Node.js](https://nodejs.org) – as we’ll see in this article. TDD forces much greater code test coverage, and if you aren’t already using it, I’d strongly encourage trying.
 
 The process is: define a test that expects the output we want from our library, API, or whatever it is we’re testing to produce; ensure that the test fails – because we have not yet implemented any functionality; then write the implementation code required to make that test pass.<span id="more-419650"></span>
