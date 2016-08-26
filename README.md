@@ -1,6 +1,6 @@
 # Test-Driven-Development for building APIs in Node.js and Express
 
-![BuildStatus](https://travis-ci.org/stevenalexander/tdd-for-apis.svg?branch=master) [![Code Climate](https://codeclimate.com/github/stevenalexander/tdd-for-apis/badges/gpa.svg)](https://codeclimate.com/github/stevenalexander/tdd-for-apis)
+[![BuildStatus](https://travis-ci.org/stevenalexander/tdd-for-apis.svg?branch=master)](https://travis-ci.org/stevenalexander/tdd-for-apis?branch=master) [![Code Climate](https://codeclimate.com/github/stevenalexander/tdd-for-apis/badges/gpa.svg)](https://codeclimate.com/github/stevenalexander/tdd-for-apis) [![Dependency Status](stevenalexander/tdd-for-apis.svg)](https://david-dm.org/stevenalexander/tdd-for-apis) [![devDependency Status](stevenalexander/tdd-for-apis/dev-status.svg)](https://david-dm.org/stevenalexander/tdd-for-apis/?type=dev)
 
 [![js-standard-style](https://cdn.rawgit.com/feross/standard/master/badge.svg)](http://standardjs.com)
 
